@@ -2,15 +2,11 @@ using UnityEngine;
 
 public class Little_Ball : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    [Header("Ball Settings")]
+    [SerializeField] Rigidbody rb;
     void Update()
     {
-        
+        // força = Direção, massa * aceleração
+        rb.AddForce(Vector3.forward * rb.mass, ForceMode.Acceleration);
     }
 }

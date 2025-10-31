@@ -131,8 +131,10 @@ GameObject:
   - component: {fileID: 197530181}
   - component: {fileID: 197530180}
   - component: {fileID: 197530179}
+  - component: {fileID: 197530183}
+  - component: {fileID: 197530184}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: bola
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -221,12 +223,52 @@ Transform:
   m_GameObject: {fileID: 197530178}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1, y: 1.46, z: 46.28}
+  m_LocalPosition: {x: -0.1, y: 0.06, z: 46.58}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &197530183
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 197530178}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &197530184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 197530178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 219400e8eff64724b9cb1e8d82c31308, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 197530183}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -313,13 +355,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.02041023, y: -0.00011829767, z: 0.0052638776, w: 0.9997778}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0.17177455, y: -0, z: -0, w: 0.9851363}
+  m_LocalPosition: {x: 0.49, y: 10.56, z: 14.61}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 2.339, y: -0.001, z: 0.603}
+  m_LocalEulerAnglesHint: {x: 19.782, y: 0, z: 0}
 --- !u!114 &330585547
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -586,12 +628,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 701041641}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.16, y: 0.01, z: 39.37}
-  m_LocalScale: {x: 15.131298, y: 1, z: 0.17399}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.010666667, y: 1.01, z: -0.012}
+  m_LocalScale: {x: 1.0087533, y: 1, z: 0.006213928}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1124788716}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &832575517
 GameObject:
@@ -744,10 +786,11 @@ Transform:
   m_GameObject: {fileID: 1124788712}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -1, z: 38.1}
-  m_LocalScale: {x: 15, y: 1, z: 28}
+  m_LocalPosition: {x: 0, y: -1, z: 45.25}
+  m_LocalScale: {x: 14, y: 1, z: 25}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 701041645}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1830505758
@@ -785,7 +828,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   body: {fileID: 1830505765}
-  SpeedX: 2
+  Speed: 10
   IsMoving: 0
 --- !u!65 &1830505760
 BoxCollider:
@@ -870,7 +913,7 @@ Transform:
   m_GameObject: {fileID: 1830505758}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.28, y: 0.2, z: 50.22}
+  m_LocalPosition: {x: 0.28, y: 0.2, z: 53.68}
   m_LocalScale: {x: 1.8054, y: 1, z: 0.47858}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1019,7 +1062,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -1029,6 +1072,5 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 1124788716}
-  - {fileID: 701041645}
   - {fileID: 1830505763}
   - {fileID: 197530182}
