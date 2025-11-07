@@ -8,16 +8,16 @@ public class Moviment : MonoBehaviour
 
     [SerializeField] bool IsMoving;
 
-    Vector2 Direction;
+    Vector3 Direction;
     void Update()
     {
         if (IsMoving)
         {
-            body.linearVelocity = new Vector2(Direction.x, 0) * Speed;
+            body.linearVelocity = new Vector3(Direction.x, 0,Direction.z) * Speed;
         }
         else
         {
-            body.linearVelocity = Vector2.zero;
+            body.linearVelocity = Vector3.zero;
         }
     }
 
@@ -29,7 +29,7 @@ public class Moviment : MonoBehaviour
         }
         else if(callbackContext.phase == InputActionPhase.Performed)
         {
-            Direction = callbackContext.ReadValue<Vector2>();
+            Direction = callbackContext.ReadValue<Vector3>();
         }
         else if (callbackContext.phase == InputActionPhase.Canceled) 
         { IsMoving = false; }
