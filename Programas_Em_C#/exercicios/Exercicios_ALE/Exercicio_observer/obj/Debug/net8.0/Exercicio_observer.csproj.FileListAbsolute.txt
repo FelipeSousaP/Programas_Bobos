@@ -1,0 +1,15 @@
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\bin\Debug\net8.0\Exercicio_observer.exe
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\bin\Debug\net8.0\Exercicio_observer.deps.json
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\bin\Debug\net8.0\Exercicio_observer.runtimeconfig.json
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\bin\Debug\net8.0\Exercicio_observer.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\bin\Debug\net8.0\Exercicio_observer.pdb
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\Exercicio_observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\Exercicio_observer.AssemblyInfoInputs.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\Exercicio_observer.AssemblyInfo.cs
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\Exercicio_observer.csproj.CoreCompileInputs.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\Exercicio_observer.sourcelink.json
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\Exercicio_observer.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\refint\Exercicio_observer.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\Exercicio_observer.pdb
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\Exercicio_observer.genruntimeconfig.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio_observer\obj\Debug\net8.0\ref\Exercicio_observer.dll

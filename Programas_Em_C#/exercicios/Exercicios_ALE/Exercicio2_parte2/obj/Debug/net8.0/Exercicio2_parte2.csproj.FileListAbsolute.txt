@@ -1,0 +1,15 @@
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\bin\Debug\net8.0\Exercicio2_parte2.exe
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\bin\Debug\net8.0\Exercicio2_parte2.deps.json
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\bin\Debug\net8.0\Exercicio2_parte2.runtimeconfig.json
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\bin\Debug\net8.0\Exercicio2_parte2.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\bin\Debug\net8.0\Exercicio2_parte2.pdb
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\Exercicio2_parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\Exercicio2_parte2.AssemblyInfoInputs.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\Exercicio2_parte2.AssemblyInfo.cs
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\Exercicio2_parte2.csproj.CoreCompileInputs.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\Exercicio2_parte2.sourcelink.json
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\Exercicio2_parte2.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\refint\Exercicio2_parte2.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\Exercicio2_parte2.pdb
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\Exercicio2_parte2.genruntimeconfig.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\Programas_Bobos\Programas_Em_C#\exercicios\Exercicios_ALE\Exercicio2_parte2\obj\Debug\net8.0\ref\Exercicio2_parte2.dll

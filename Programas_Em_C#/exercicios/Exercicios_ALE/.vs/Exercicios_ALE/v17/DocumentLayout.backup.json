@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comff\\OneDrive\\Documentos\\GitHub\\Programas_Bobos\\Programas_Em_C#\\exercicios\\Exercicios_ALE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9C2EBE-42C7-4A65-8CC0-36000C73C2F1}|Exercicio4_parte2\\Exercicio4_parte2.csproj|c:\\users\\comff\\onedrive\\documentos\\github\\programas_bobos\\programas_em_c#\\exercicios\\exercicios_ale\\exercicio4_parte2\\sistematotem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9C2EBE-42C7-4A65-8CC0-36000C73C2F1}|Exercicio4_parte2\\Exercicio4_parte2.csproj|solutionrelative:exercicio4_parte2\\sistematotem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9C2EBE-42C7-4A65-8CC0-36000C73C2F1}|Exercicio4_parte2\\Exercicio4_parte2.csproj|c:\\users\\comff\\onedrive\\documentos\\github\\programas_bobos\\programas_em_c#\\exercicios\\exercicios_ale\\exercicio4_parte2\\itemcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9C2EBE-42C7-4A65-8CC0-36000C73C2F1}|Exercicio4_parte2\\Exercicio4_parte2.csproj|solutionrelative:exercicio4_parte2\\itemcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9C2EBE-42C7-4A65-8CC0-36000C73C2F1}|Exercicio4_parte2\\Exercicio4_parte2.csproj|c:\\users\\comff\\onedrive\\documentos\\github\\programas_bobos\\programas_em_c#\\exercicios\\exercicios_ale\\exercicio4_parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9C2EBE-42C7-4A65-8CC0-36000C73C2F1}|Exercicio4_parte2\\Exercicio4_parte2.csproj|solutionrelative:exercicio4_parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaTotem.cs",
+              "DocumentMoniker": "C:\\Users\\comff\\OneDrive\\Documentos\\GitHub\\Programas_Bobos\\Programas_Em_C#\\exercicios\\Exercicios_ALE\\Exercicio4_parte2\\SistemaTotem.cs",
+              "RelativeDocumentMoniker": "Exercicio4_parte2\\SistemaTotem.cs",
+              "ToolTip": "C:\\Users\\comff\\OneDrive\\Documentos\\GitHub\\Programas_Bobos\\Programas_Em_C#\\exercicios\\Exercicios_ALE\\Exercicio4_parte2\\SistemaTotem.cs",
+              "RelativeToolTip": "Exercicio4_parte2\\SistemaTotem.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwCgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:46:00.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemCompra.cs",
+              "DocumentMoniker": "C:\\Users\\comff\\OneDrive\\Documentos\\GitHub\\Programas_Bobos\\Programas_Em_C#\\exercicios\\Exercicios_ALE\\Exercicio4_parte2\\ItemCompra.cs",
+              "RelativeDocumentMoniker": "Exercicio4_parte2\\ItemCompra.cs",
+              "ToolTip": "C:\\Users\\comff\\OneDrive\\Documentos\\GitHub\\Programas_Bobos\\Programas_Em_C#\\exercicios\\Exercicios_ALE\\Exercicio4_parte2\\ItemCompra.cs",
+              "RelativeToolTip": "Exercicio4_parte2\\ItemCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:44:16.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\comff\\OneDrive\\Documentos\\GitHub\\Programas_Bobos\\Programas_Em_C#\\exercicios\\Exercicios_ALE\\Exercicio4_parte2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio4_parte2\\Program.cs",
+              "ToolTip": "C:\\Users\\comff\\OneDrive\\Documentos\\GitHub\\Programas_Bobos\\Programas_Em_C#\\exercicios\\Exercicios_ALE\\Exercicio4_parte2\\Program.cs",
+              "RelativeToolTip": "Exercicio4_parte2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:43:57.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
